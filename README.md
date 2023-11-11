@@ -1,7 +1,7 @@
 # CLIMDES-INTERNSHIP-SUCCESS
 # Internship Success Prediction
 
-This project aims to predict the success of an intern using machine learning. A logistic regression model is trained on simulated data to predict whether an applicant will succeed in completing their internship.
+This project aims to predict the success of an intern using machine learning. A logistic regression model is trained on simulated data to predict whether an applicant will have a successful internship.
 
 ## Data Generation and Preprocessing
 
